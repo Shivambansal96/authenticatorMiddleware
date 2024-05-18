@@ -1,0 +1,170 @@
+
+[Thu May 16 2024 17:26:17 GMT+0530 (India Standard Time)] GET /
+[Thu May 16 2024 17:26:17 GMT+0530 (India Standard Time)] Request processed in 4ms
+[Thu May 16 2024 17:26:18 GMT+0530 (India Standard Time)] GET /
+[Thu May 16 2024 17:26:18 GMT+0530 (India Standard Time)] Request processed in 1ms
+[Sat May 18 2024 12:00:05 GMT+0530 (India Standard Time)] GET /
+[Sat May 18 2024 12:00:05 GMT+0530 (India Standard Time)] Request processed in 8ms
+[Sat May 18 2024 17:29:22 GMT+0530 (India Standard Time)] GET /
+[Sat May 18 2024 17:29:22 GMT+0530 (India Standard Time)] Request processed in 4ms
+[Sat May 18 2024 17:41:39 GMT+0530 (India Standard Time)] GET /authenticator/registration:id?apiKey=123-123-123
+[Sat May 18 2024 17:41:39 GMT+0530 (India Standard Time)] Request processed in 0ms
+[Sat May 18 2024 17:43:43 GMT+0530 (India Standard Time)] GET /authenticator/registration:id?apiKey=123-123-123
+[Sat May 18 2024 17:43:43 GMT+0530 (India Standard Time)] Request processed in 1ms
+
+DATE_AND_TIME = [Sat May 18 2024 17:47:26 GMT+0530 (India Standard Time)] 
+METHOD = GET 
+REQUESTED_URL = /authenticator/registration:id?apiKey=123-123-123
+
+Request processed in 1ms
+
+DATE_AND_TIME = [Sat May 18 2024 17:48:23 GMT+0530 (India Standard Time)] 
+METHOD = GET 
+REQUESTED_URL = /authenticator/registration:id?apiKey=123-123-123
+Request processed in 0ms
+
+DATE_AND_TIME = [Sat May 18 2024 17:49:19 GMT+0530 (India Standard Time)] 
+METHOD = GET 
+REQUESTED_URL = /authenticator/registration:id?apiKey=123-123-123
+Request processed in 2ms
+DATE_AND_TIME = [Sat May 18 2024 17:53:24 GMT+0530 (India Standard Time)] 
+METHOD = GET 
+REQUESTED_URL = /authenticator?apiKey=123-123-123
+Request processed in 0ms
+DATE_AND_TIME = [Sat May 18 2024 17:54:30 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-123 
+METHOD = GET
+Request processed in 10ms
+DATE_AND_TIME = [Sat May 18 2024 17:56:27 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-123 
+METHOD = GET
+Request processed in 3ms
+DATE_AND_TIME = [Sat May 18 2024 18:10:49 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-123 
+METHOD = GET
+Request processed in 3ms
+DATE_AND_TIME = [Sat May 18 2024 18:11:08 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-120 
+METHOD = GET
+Request processed in 1ms
+DATE_AND_TIME = [Sat May 18 2024 18:11:14 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-120 
+METHOD = GET
+Request processed in 0ms
+DATE_AND_TIME = [Sat May 18 2024 18:12:08 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-120 
+METHOD = GET 
+STATUS_CODE = undefined
+Request processed in 4ms
+DATE_AND_TIME = [Sat May 18 2024 18:12:15 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-123 
+METHOD = GET 
+STATUS_CODE = undefined
+Request processed in 2ms
+DATE_AND_TIME = [Sat May 18 2024 18:12:44 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-123 
+METHOD = GET 
+STATUS_CODE = function status(code) {
+  if ((typeof code === 'string' || Math.floor(code) !== code) && code > 99 && code < 1000) {
+    deprecate('res.status(' + JSON.stringify(code) + '): use res.status(' + Math.floor(code) + ') instead')
+  }
+  this.statusCode = code;
+  return this;
+}
+Request processed in 3ms
+DATE_AND_TIME = [Sat May 18 2024 18:14:12 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-123 
+METHOD = GET 
+STATUS_CODE = null
+Request processed in 4ms
+DATE_AND_TIME = [Sat May 18 2024 18:14:45 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-123 
+METHOD = GET 
+STATUS_CODE = null
+Request processed in 3ms
+DATE_AND_TIME = [Sat May 18 2024 18:17:15 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-123 
+METHOD = GET 
+STATUS_CODE = null
+Request processed in 4ms
+DATE_AND_TIME = [Sat May 18 2024 18:17:28 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-123 
+METHOD = GET 
+STATUS_CODE = null
+Request processed in 1ms
+DATE_AND_TIME = [Sat May 18 2024 18:17:28 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-123 
+METHOD = GET 
+STATUS_CODE = null
+Request processed in 0ms
+DATE_AND_TIME = [Sat May 18 2024 18:17:38 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-121 
+METHOD = GET 
+STATUS_CODE = null
+Request processed in 1ms
+DATE_AND_TIME = [Sat May 18 2024 18:20:26 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-121 
+METHOD = GET 
+STATUS_CODE = null
+Request processed in 2ms
+DATE_AND_TIME = [Sat May 18 2024 18:20:29 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-123 
+METHOD = GET 
+STATUS_CODE = null
+Request processed in 1ms
+DATE_AND_TIME = [Sat May 18 2024 18:21:56 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-123 
+METHOD = GET 
+STATUS_CODE = null
+Request processed in 3ms
+DATE_AND_TIME = [Sat May 18 2024 18:22:05 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-123 
+METHOD = GET 
+STATUS_CODE = null
+Request processed in 1ms
+DATE_AND_TIME = [Sat May 18 2024 18:22:52 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-123 
+METHOD = GET 
+STATUS_CODE = 200
+Request processed in 3ms
+DATE_AND_TIME = [Sat May 18 2024 18:22:57 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-121 
+METHOD = GET 
+STATUS_CODE = 200
+Request processed in 1ms
+
+DATE_AND_TIME = [Sat May 18 2024 18:24:10 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-121 
+METHOD = GET 
+STATUS_CODE = 200
+Request processed in 3ms
+
+DATE_AND_TIME = [Sat May 18 2024 18:29:32 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-121 
+METHOD = GET 
+STATUS_CODE = 200
+Request processed in 0ms
+
+DATE_AND_TIME = [Sat May 18 2024 18:29:35 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-123 
+METHOD = GET 
+STATUS_CODE = 200
+Request processed in 1ms
+
+DATE_AND_TIME = [Sat May 18 2024 18:29:36 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-123 
+METHOD = GET 
+STATUS_CODE = 200
+Request processed in 1ms
+
+DATE_AND_TIME = [Sat May 18 2024 18:29:45 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-123 
+METHOD = GET 
+STATUS_CODE = 200
+Request processed in 0ms
+
+DATE_AND_TIME = [Sat May 18 2024 18:29:58 GMT+0530 (India Standard Time)] 
+REQUESTED_URL = /authenticator?apiKey=123-123-120 
+METHOD = GET 
+STATUS_CODE = 200
+Request processed in 1ms
